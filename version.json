@@ -1,0 +1,11 @@
+{
+  "version": "1.1.1",
+  "notes": "- Tự viết hoa Ông/Bà khi đứng đầu câu (đầu dòng, sau gạch đầu dòng), giữa câu vẫn viết thường.",
+  "exe": {
+    "name": "Tool_Xuat_Ho_So_CMD.exe",
+    "url": "https://raw.githubusercontent.com/linhkinh/tool-xuat-ho-so-cmd-update/main/Tool_Xuat_Ho_So_CMD.exe",
+    "sha256": "75311bb530670e457f5402d23df041583c2fa048f5e897b250d25f2bd6e41eaf",
+    "size": 63778637
+  },
+  "files": []
+}
